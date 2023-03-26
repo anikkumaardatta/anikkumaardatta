@@ -1,6 +1,7 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQFCDaJoZNXZnQ/profile-displaybackgroundimage-shrink_350_1400/0/1679828518111?e=1685577600&v=beta&t=7qUL0ZX-6cvSAXjAzBy5Ioy2JFyzr3IeIOOPqFDvaGc)
+
 ### Hi there 👋, I'm Anik Datta
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQFCDaJoZNXZnQ/profile-displaybackgroundimage-shrink_350_1400/0/1679828518111?e=1685577600&v=beta&t=7qUL0ZX-6cvSAXjAzBy5Ioy2JFyzr3IeIOOPqFDvaGc)
 
 I can design and build user-friendly, responsive websites. My goal is to always create high-quality, accessible websites that are optimized for both desktop and mobile devices.
 Detail-oriented and highly organized. It is also important for me to stay informed on the latest web technologies and trends.
