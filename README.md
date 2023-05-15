@@ -12,10 +12,6 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: anikkumaardatta@gmail.com 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anikkumaardatta)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikkumaardatta)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikkumaardatta&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anikkumaardatta)  
