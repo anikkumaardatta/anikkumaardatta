@@ -1,5 +1,3 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQFCDaJoZNXZnQ/profile-displaybackgroundimage-shrink_350_1400/0/1679828518111?e=1685577600&v=beta&t=7qUL0ZX-6cvSAXjAzBy5Ioy2JFyzr3IeIOOPqFDvaGc)
-
 ### Hi there 👋, I'm Anik Datta
 #### Web Developer
 
@@ -10,14 +8,3 @@ Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning TypeScript, socket.io 
 - 📫 How to reach me: anikkumaardatta@gmail.com 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikkumaardatta&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anikkumaardatta)  
-
-![GitHub metrics](https://metrics.lecoq.io/anikkumaardatta)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anikkumaardatta)  
-
-![Profile views](https://gpvc.arturio.dev/anikkumaardatta)  
